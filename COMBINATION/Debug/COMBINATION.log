@@ -1,0 +1,6 @@
+﻿  final.cpp
+C:\Users\Admin\source\repos\COMBINATION\COMBINATION\final.cpp(483,12): warning C4309: 'argument': truncation of constant value
+C:\Users\Admin\source\repos\COMBINATION\COMBINATION\final.cpp(2248,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\COMBINATION\COMBINATION\final.cpp(2359,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\COMBINATION\COMBINATION\final.cpp(3142,20): warning C4018: '<': signed/unsigned mismatch
+  COMBINATION.vcxproj -> C:\Users\Admin\source\repos\COMBINATION\Debug\COMBINATION.exe
